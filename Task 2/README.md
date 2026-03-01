@@ -40,15 +40,9 @@ The models were evaluated using:
 - Precision / Recall / F1-score  
 - Confusion Matrix  
 - Classification Report  
+- Some plotting
 
-A small overfitting test (100 samples) was also done to validate the pipeline.
-
----
-
-## Saved Models
-- `forest_cover_Simplemodel.pth`  
-- `forest_cover_Complexmodel.pth`  
-- `forest_cover_Regularizedmodel.pth`  
+A small overfitting test (100 samples) was also done to validate the pipeline (Sanity Check).
 
 ---
 
@@ -69,9 +63,9 @@ You can install them using the provided `requirements.txt`.
 
 ---
 
-## Setup Virtual Environment
+### Before doing that please install a virtual environment using:
 
-### 1️⃣ Create Virtual Environment
+#### 1️⃣ Create Virtual Environment
 
 ```bash
 python -m venv venv
