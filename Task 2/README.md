@@ -52,12 +52,13 @@ Make sure you are using **Python 3.9+**
 
 ### Required Libraries & Versions
 
-- torch >= 2.0  
-- numpy >= 1.24  
-- pandas >= 2.0  
-- scikit-learn >= 1.3  
-- matplotlib >= 3.7  
-- seaborn >= 0.12  
+- pandas==2.2.2
+- numpy==1.26.4
+- matplotlib==3.8.4
+- seaborn==0.13.2
+- torch==2.3.0
+- scikit-learn==1.4.2
+- tqdm==4.66.4
 
 You can install them using the provided `requirements.txt`.
 
