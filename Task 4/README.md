@@ -18,8 +18,8 @@ Transfer learning experiments include:
 
 ### Feature Maps Visualization
 Find Feature maps visualized for
-- CNN trained from scratch with dropout regularization
-- 3 Transfer Learning models
+- 3 CNN trained from scratch with dropout regularization
+- 3 Transfer Learning models (FC Only, Finetune Last Layers, Finetune All Layers)
 ## Results
 
 | Model | Test Accuracy |
